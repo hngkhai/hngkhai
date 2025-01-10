@@ -1,3 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53CBF7&width=435&lines=Welcome+!!!;I'm+Hng+Cherng+Khai)](https://git.io/typing-svg)
+
+
+
 ## Hi there 👋
 
 <!--
