@@ -1,21 +1,23 @@
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53CBF7&width=435&lines=Welcome+!!!;I'm+Hng+Cherng+Khai)](https://git.io/typing-svg)
+# 🚀 Welcome to My GitHub Universe! 🌌
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53CBF7&width=435&lines=Hello+World!;I'm+Hng+Cherng+Khai;Data+Science+Enthusiast;AI+Explorer;Creative+Soul)](https://git.io/typing-svg)
 
+<img align="right" width=300px alt="Coding GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!--
-**hngkhai/hngkhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Technological University (NTU), Singapore**. I'm on a mission to turn data into insights and build intelligent systems that make the world a better place. 🌍
 
-Here are some ideas to get you started:
+🌱 Currently learning: Advanced Machine Learning 🤖, RAG (Retrieval-Augmented Generation) Applications, Web Development 🌐, and Creative Coding 🎨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Looking to collaborate: Open-source projects, AI/ML innovations, and creative tech solutions. Let’s build the future together!
+
+🎯 Hobbies: Meditating 🧘‍♂️, brainstorming new ideas 💡, working on exciting projects 🛠️, playing ping pong 🏓, and mastering strategies in board games 🎲.
+
+📈 Trend Tracker: I love staying updated with the latest trends in tech, AI, and pop culture. Let’s discuss what’s hot and what’s next!
+
+💡 Fun fact: I believe creativity, strategy, and staying ahead of trends are the keys to solving complex problems. Let’s create something extraordinary together!
+
+---
