@@ -67,4 +67,4 @@ Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Tech
 ---
 
 ## ✨ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&quote=I%20believe%20in%20the%20power%20of%20calmness%20and%20focus%20to%20drive%20innovation%20and%20achieve%20meaningful%20results.&author=Wei%20Yin)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&quote=I%20believe%20in%20the%20power%20of%20calmness%20and%20focus%20to%20drive%20innovation%20and%20achieve%20meaningful%20results.&author=Cherng%20Khai)
