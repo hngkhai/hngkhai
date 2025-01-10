@@ -7,8 +7,6 @@
 <img align="right" width=300px alt="Coding GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 
-[![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
-
 Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Technological University(NTU), Singapore**, with a passion for understanding the world and solving real human problems. My mission is to observe, empathize, and innovate—developing intelligent systems that prioritize humanity without compromise. Through technology, I aim to create meaningful solutions that make the world a better place, one innovation at a time. 🌍
 
 🌱 Currently learning: RAG (Retrieval-Augmented Generation) Applications 🧠, Advanced Machine Learning 🤖, Web Development 🌐, and Creative Coding 🎨.
