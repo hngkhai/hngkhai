@@ -22,8 +22,7 @@ Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Tech
 💡 Fun fact: I believe creativity, strategy, and staying ahead of trends are the keys to solving complex problems. Let’s create something extraordinary together!
 
 ---
-
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
