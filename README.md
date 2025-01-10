@@ -9,11 +9,11 @@
 
 Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Technological University(NTU), Singapore**, with a passion for understanding the world and solving real human problems. My mission is to observe, empathize, and innovate—developing intelligent systems that prioritize humanity without compromise. Through technology, I aim to create meaningful solutions that make the world a better place, one innovation at a time. 🌍
 
-🌱 Currently learning: RAG (Retrieval-Augmented Generation) Applications 🧠, Advanced Machine Learning 🤖, Web Development 🌐, and Creative Coding 🎨.
+- 🌱 Currently learning: RAG (Retrieval-Augmented Generation) Applications 🧠, Advanced Machine Learning 🤖, Web Development 🌐, and Creative Coding 🎨.
 
-👯 Looking to collaborate: Open-source projects, AI/ML innovations, and creative tech solutions. Let’s build the future together!
+- 👯 Looking to collaborate: Open-source projects, AI/ML innovations, and creative tech solutions. Let’s build the future together!
 
-🎯 Hobbies: Meditating 🧘‍♂️, brainstorming new ideas 💡, working on exciting projects 🛠️, playing ping pong 🏓, and mastering strategies in board games 🎲.
+- 🎯 Hobbies: Meditating 🧘‍♂️, brainstorming new ideas 💡, working on exciting projects 🛠️, playing ping pong 🏓, and mastering strategies in board games 🎲.
 
 ---
 ## 🛠️ Tech Stack & Tools
