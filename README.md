@@ -9,7 +9,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
 
-Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Technological University (NTU), Singapore**. I'm on a mission to turn data into insights and build intelligent systems that make the world a better place. 🌍
+Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Technological University (NTU), Singapore**. 
+I'm on a mission to observe the world, understand what humans truly need, and develop solutions that prioritize humanity without compromise. I aim to build intelligent systems that make the world a better place—one innovation at a time. 🌍
 
 🌱 Currently learning: Advanced Machine Learning 🤖, RAG (Retrieval-Augmented Generation) Applications, Web Development 🌐, and Creative Coding 🎨.
 
