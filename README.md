@@ -17,10 +17,6 @@ Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Tech
 
 🎯 Hobbies: Meditating 🧘‍♂️, brainstorming new ideas 💡, working on exciting projects 🛠️, playing ping pong 🏓, and mastering strategies in board games 🎲.
 
-📈 Trend Tracker: I love staying updated with the latest trends in tech, AI, and pop culture. Let’s discuss what’s hot and what’s next!
-
-💡 Fun fact: I believe creativity, strategy, and staying ahead of trends are the keys to solving complex problems. Let’s create something extraordinary together!
-
 ---
 ## 🛠️ Tech Stack & Tools
 ### **Programming Languages**
