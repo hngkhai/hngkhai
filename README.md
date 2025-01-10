@@ -22,3 +22,45 @@ Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Tech
 💡 Fun fact: I believe creativity, strategy, and staying ahead of trends are the keys to solving complex problems. Let’s create something extraordinary together!
 
 ---
+🛠️ Tech Stack & Tools
+Programming Languages
+Python
+Java
+JavaScript
+TypeScript
+C
+
+Front-End Development
+React
+Bootstrap
+HTML5
+CSS3
+
+Back-End Development
+Node.js
+Express.js
+Spring Boot
+Flask
+FastAPI
+
+Databases
+MongoDB
+Firebase
+SQL
+Neo4j
+
+Data Science & AI
+NumPy
+Pandas
+Scikit-Learn
+TensorFlow
+Hugging Face
+LangChain
+OpenAI
+Gemini
+
+Tools & Platforms
+GitHub
+VS Code
+Jupyter Notebook
+Google Colab
