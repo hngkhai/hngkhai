@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53CBF7&width=435&lines=Hello+World!;I'm+Hng+Cherng+Khai;Data+Science+Enthusiast;AI+Explorer;Creative+Soul)](https://git.io/typing-svg)
 
-![image](https://github.com/user-attachments/assets/428d1b42-db60-4898-a9a0-9efe0ef55b39)
+<img align="right" width=300px alt="Coding GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 
 [![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
