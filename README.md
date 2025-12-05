@@ -13,7 +13,7 @@ Hey there! I'm **Cherng Khai**, a **Computer Science** student at **Nanyang Tech
 
 - 👯 Looking to collaborate: Open-source projects, AI/ML innovations, and creative tech solutions. Let’s build the future together!
 
-- 🎯 Hobbies: Meditating 🧘‍♂️, brainstorming new ideas 💡, working on exciting projects 🛠️, playing ping pong 🏓, and mastering strategies in board games 🎲.
+- 🎯 Hobbies: Meditate 🧘‍♂️, brainstorm new ideas 💡, work on exciting projects 🛠️, play ping pong 🏓, and master strategies in board games 🎲.
 
 ---
 ## 🛠️ Tech Stack & Tools
